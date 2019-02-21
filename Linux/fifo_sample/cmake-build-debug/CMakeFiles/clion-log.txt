@@ -1,0 +1,4 @@
+/home/marco/Downloads/software/clion-2017.2.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/cmake-build-debug

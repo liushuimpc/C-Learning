@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/fifo_sample.c
+stdio.h
+-
+unistd.h
+-
+sys/stat.h
+-
+wait.h
+-
+asm/errno.h
+-
+errno.h
+-
+fcntl.h
+-
+fifo_sample.h
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/fifo_sample.h
+
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/fifo_sample.h
+
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/main.c
+stdio.h
+-
+fifo_sample.h
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/fifo_sample.h
+

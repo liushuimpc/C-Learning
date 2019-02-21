@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/fifo_sample.dir/main.c.o CMakeFiles/fifo_sample.dir/fifo_sample.c.o  -o fifo_sample 

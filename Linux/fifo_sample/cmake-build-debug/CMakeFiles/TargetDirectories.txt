@@ -1,0 +1,3 @@
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/Downloads/Learn/personal_work/C-Learning/Linux/fifo_sample/cmake-build-debug/CMakeFiles/fifo_sample.dir
